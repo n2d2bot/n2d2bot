@@ -1,0 +1,3 @@
+- :wave: Hi, I'm @n2d2bot
+- :rocket: I'm helping the N2D2 Team to improve N2D2
+- Don't hesitate to check the [N2D2](https://github.com/CEA-LIST/N2D2) repository
